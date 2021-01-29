@@ -51,9 +51,9 @@ experience:
         * Coordinate with team to generate, edit, publish and share engaging content daily (e.g. original text, photos, videos and news)
         
         
-  - title: Social Media Manager
-    company: STMIK AKAKOM
-    company_url: 'https://akakom.ac.id'
+  - title: Google Developer Group Chapter Jogja Manager
+    company: 
+    company_url: ''
     location: Yogyakarta
     date_start: '2013-09-01'
     date_end: '2016-10-31'
