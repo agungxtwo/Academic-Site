@@ -39,8 +39,8 @@ experience:
     company: STMIK AKAKOM
     company_url: 'https://akakom.ac.id'
     location: Yogyakarta
-    date_start: '2016-06-01'
-    date_end: '2019-12-31'
+    date_start: '2015-05-01'
+    date_end: '2020-12-31'
     description: >-
         Responsibilities include:
         
