@@ -1,6 +1,6 @@
 ---
 role: Researcher dan Dosen
-avatar_filename: circle-cropped.png
+avatar_filename: avatar.png
 bio: Ketertarikan riset meliputi Computer Networks, Cloud Computing, Human
   Centered Computing
 interests:
