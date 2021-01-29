@@ -43,7 +43,7 @@ experience:
     description: >-
         Responsibilities include:
         
-    * Perform research on current benchmark trends and audience preferences
-    * Design and implement social media strategy to align with business goals
-    * Coordinate with team to generate, edit, publish and share engaging content daily (e.g. original text, photos, videos and news)
+        * Perform research on current benchmark trends and audience preferences
+        * Design and implement social media strategy to align with business goals
+        * Coordinate with team to generate, edit, publish and share engaging content daily (e.g. original text, photos, videos and news)
 ---
