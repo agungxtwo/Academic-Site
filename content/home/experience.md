@@ -28,7 +28,7 @@ experience:
     location: Yogyakarta
     date_start: '2015-06-01'
     date_end: ''
-    description: |2-
+    description: >-
         Responsibilities include:
         
         * eaching and prepare curricula for advance computer network, network security, and cloud computing technology courses.
@@ -41,7 +41,7 @@ experience:
     location: Yogyakarta
     date_start: '2016-06-01'
     date_end: '2020-12-31'
-    description: >-
+    description: |2-
         Responsibilities include:
         
         * Perform research on current benchmark trends and audience preferences
@@ -57,7 +57,7 @@ experience:
     location: Yogyakarta
     date_start: '2013-09-01'
     date_end: '2016-10-31'
-    description: >-
+    description: |2-
         Responsibilities include:
 
         * Maintain google developer community in Yogyakarta
