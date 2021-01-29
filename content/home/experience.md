@@ -40,8 +40,8 @@ experience:
     company_url: 'https://akakom.ac.id'
     location: Yogyakarta
     date_start: '2016-06-01'
-    date_end: '2020-12-31'
-    description: |2-
+    date_end: '2019-12-31'
+    description: >-
         Responsibilities include:
         
         * Perform research on current benchmark trends and audience preferences
@@ -57,7 +57,7 @@ experience:
     location: Yogyakarta
     date_start: '2013-09-01'
     date_end: '2016-10-31'
-    description: |2-
+    description: >-
         Responsibilities include:
 
         * Maintain google developer community in Yogyakarta
