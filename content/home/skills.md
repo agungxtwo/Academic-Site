@@ -20,7 +20,7 @@ feature:
   icon: linux
   icon_pack: fab
   name: linux
-- description: 100%
+- description: 80%
   icon: docker
   icon_pack: fab
   name: docker
