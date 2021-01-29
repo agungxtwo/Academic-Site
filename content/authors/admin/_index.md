@@ -1,5 +1,6 @@
 ---
 role: Researcher dan Dosen
+avatar_filename: circle-cropped.png
 bio: Ketertarikan riset meliputi Computer Networks, Cloud Computing, Human
   Centered Computing
 interests:
@@ -10,9 +11,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: instagram
     icon_pack: fab
-    link: https://twitter.com/agungxtwo
+    link: https://instagram.com/agungxtwo
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=I1cgyUsAAAAJ&hl=id&authuser=1
@@ -22,11 +23,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/magungnugroho
-  - display:
-      header: false
-    icon_pack: fab
-    icon: Instagram
-    link: https://instagram.com/agungxtwo
 organizations:
   - name: STMIK AKAKOM
     url: https://akakom.ac.id
@@ -43,8 +39,4 @@ highlight_name: false
 title: Muhammad Agung Nugroho
 email: ""
 ---
-Muhammad Agung Nugroho . His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Muhammad Agung Nugroho memiliki riset interest di bidang cloud computing, computer networks and security. Pada waktu luang lebih banyak menghabiskan waktu untuk hobi film photography dan menyeduh kopi.
