@@ -28,7 +28,7 @@ experience:
     location: Yogyakarta
     date_start: '2015-06-01'
     date_end: ''
-    description: >-
+    description: |2-
         Responsibilities include:
         
         * eaching and prepare curricula for advance computer network, network security, and cloud computing technology courses.
