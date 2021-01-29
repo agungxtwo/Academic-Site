@@ -1,5 +1,5 @@
 ---
-role: Researcher dan Dosen STMIK AKAKOM
+role: Researcher dan Dosen
 bio: Ketertarikan riset meliputi Computer Networks, Cloud Computing, Human
   Centered Computing
 interests:
@@ -23,8 +23,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: STMIK AKAKOM
+    url: https://akakom.ac.id
 education:
   courses:
     - course: PhD in Artificial Intelligence
