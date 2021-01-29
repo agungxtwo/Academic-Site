@@ -12,30 +12,32 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/agungxtwo
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=I1cgyUsAAAAJ&hl=id&authuser=1
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/agungxtwo
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/magungnugroho
+  - display:
+      header: false
+    icon_pack: fab
+    icon: Instagram
+    link: https://instagram.com/agungxtwo
 organizations:
   - name: STMIK AKAKOM
     url: https://akakom.ac.id
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: S2 Teknik Informatika
+      institution: STMIK AMIKOM
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: S1 Teknik Informatika
+      institution: STMIK AMIKOM
+      year: 2003
 superuser: true
 highlight_name: false
 title: Muhammad Agung Nugroho
