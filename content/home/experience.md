@@ -40,7 +40,9 @@ experience:
     location: Yogyakarta
     date_start: '2016-06-01'
     date_end: '2020-12-31'
-    description: 
+    description: |2-
+        Responsibilities include:
+        
     * Perform research on current benchmark trends and audience preferences
     * Design and implement social media strategy to align with business goals
     * Coordinate with team to generate, edit, publish and share engaging content daily (e.g. original text, photos, videos and news)
