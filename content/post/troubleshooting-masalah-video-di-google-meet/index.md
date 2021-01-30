@@ -1,5 +1,5 @@
 ---
-title: Troubleshooting masalah video di google meet
+title: Troubleshooting masalah webcam google meet pada Windows 10
 subtitle: ""
 date: 2021-01-30T16:30:11.142Z
 draft: false
@@ -30,3 +30,19 @@ Setelah masuk anda akan mendapatkan 2 pilihan yaitu audio dan video. Dengan meli
 Pada setelan ini anda memiliki pilihan untuk menggunakan video webcam, bisa menggunakan bawaan dari webcam laptop anda atau juga bisa menggunakan droidcam (jika menggunakan webcam via smartphone) atau OBS.\
 \
 Jika anda mendapati webcam belum terdeteksi, lakukan dahulu langkah kedua dan ketiga pada tutorial ini.
+
+## 2. Setting privacy camera untuk aplikasi desktop
+
+Pertama, anda perlu masuk ke menu setting OS Windows, jika menggunakan windows 10 seperti pada tutorial ini, cukup anda tekan logo windows, dan ketik kata "setting" pada menu search. 
+
+![](6.png)
+
+Pada gambar diatas ketikan kata "privacy" pada input search, maka anda akan mendapatkan pilihan seperti gambar. Pada tahap ini, pilihlah **camera  privacy settings**. Setelah anda masuk pada bagian ini, anda bisa melakukan scroll ke bawah dan mencari judul **Allow desktop apps to access your camera** seperti pada gambar dibawah ini:
+
+![](7.png)
+
+Secara default biasanya windows 10 memerlukan izin untuk memberikan akses webcam ke aplikasi tertentu. Pada gambar diatas, di bagian yang dilingkari, anda dapat aktifkan menjadi **on**. \
+\
+Sampai pada tahap ini, kita akan melanjutkan kembali ke tahap 3, untuk setting di browser. *Pada tahapan kedua ini, bisa saja anda masuk kembali ke menu setting atau setelan pada google meet dan menemukan bahwa webcam anda sudah bisa digunakan*.
+
+## 3. Setting browser chrome
