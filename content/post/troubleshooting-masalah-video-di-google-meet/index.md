@@ -5,7 +5,7 @@ date: 2021-01-30T16:30:11.142Z
 draft: false
 featured: false
 image:
-  filename: ""
+  filename: 0.png
   focal_point: Smart
   preview_only: false
 ---
