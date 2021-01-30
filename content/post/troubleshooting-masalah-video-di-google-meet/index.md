@@ -46,3 +46,23 @@ Secara default biasanya windows 10 memerlukan izin untuk memberikan akses webcam
 Sampai pada tahap ini, kita akan melanjutkan kembali ke tahap 3, untuk setting di browser. *Pada tahapan kedua ini, bisa saja anda masuk kembali ke menu setting atau setelan pada google meet dan menemukan bahwa webcam anda sudah bisa digunakan*.
 
 ## 3. Setting browser chrome
+
+Kali ini kita akan masuk menu setting pada google chrome. Tentunya udah tahukan ya, caranya bagaimana ?\
+\
+Ok. Kalo belum, kita lanjut. Jadi caranya anda bisa klik tombol titik tiga di sebelah photo profile ganteng seperti pada gambar dibawah ini :
+
+![](3.png)
+
+Setelah muncul seperti gambar diatas, anda bisa pilih **settings**  untuk masuk ke bagian setting atau setelan konfigurasi pada google chrome. Kemudian pada bagian search anda ketik kata "camera". 
+
+![](4.png)
+
+Nah, pada bagian result udah keliatan ada highligh kata camera, anda bisa pilih bagian tersebut. Setelah masuk pada bagian **setting camera**, anda akan mendapatkan penampakan seperti dibawah ini:
+
+![](5.png)
+
+Seperti pada gambar tersebut, pilih webcam anda, kemudian klik tombol pada nomor 2 agar status **blocked** berubah menjadi **rekomendasi**.\
+\
+Sampai tahapan ini, anda bisa melakukan proses **refresh halaman** google meet anda atau masuk kembali pada bagian setting atau setelan pada google meet untuk memastikan webcam telah terdeteksi dan berjalan dengan baik.\
+\
+*Untuk mencegah persoalan teknis yang dadakan, ada baiknya sebelum melakukan meeting atau conference melakukan proses testing sebelum memulai. Bisa dengan membuat meeting abal-abal dulu berduaan dengan smartphone kamu .*
