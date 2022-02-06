@@ -16,7 +16,7 @@ image:
 ---
 Pada panduan ini menggunakan contoh kasus migrasi dari domain berbeda, namun masih menggunakan infrastruktur google workspace. Tujuan dari panduan ini untuk memudahkan pengguna email akakom.ac.id migrasi ke email utdi.ac.id.
 
-## **Langkah Pertama**
+# **Langkah Pertama**
 
 Sebagai langkah awal, anda perlu masuk ke akun email @akakom.ac.id atau untuk mahasiswa @students.akakom.ac.id. Setelah anda masuk, dapat menuju ke menu account management.
 
@@ -26,7 +26,7 @@ Setelah masuk anda akan mendapat pilihan untuk melakukan transfer data. Transfer
 
 ![](https://res.cloudinary.com/assetman/image/upload/v1644158204/blog/migrasi%20email%20utdi/migrasi-email1_pwvmiw.png)
 
-## Langkah kedua
+# Langkah kedua
 
 Langkah selanjutnya, anda perlu memasukkan alamat email yang menjadi tujuan untuk migrasi. Dalam kasus ini saya melakukan migrasi dari email @akakom.ac.id ke @utdi.ac.id sehingga yang saya inputkan adalah alamat email terbaru yang diberikan oleh institusi.
 
@@ -40,7 +40,7 @@ Setelah anda membuat email, anda akan mendapati email baru dengan isi konten kur
 
 ![](https://res.cloudinary.com/assetman/image/upload/v1644158203/blog/migrasi%20email%20utdi/migrasi-email4_qdg1uu.png)
 
-## Langkah Ketiga
+# Langkah Ketiga
 
 Setelah proses seperti gambar diatas, anda dapat klik tombol LANJUTKAN. Pada langkah ini, anda akan mendapati halaman sama dengan langkah pertama, disini anda dapat **melakukan paste kode** yang sudah anda copy, lalu klik tombol VERIFIKASI, seperti gambar dibawah ini
 
