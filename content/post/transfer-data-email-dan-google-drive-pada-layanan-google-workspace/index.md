@@ -16,7 +16,7 @@ image:
 ---
 Pada panduan ini menggunakan contoh kasus migrasi dari domain berbeda, namun masih menggunakan infrastruktur google workspace. Tujuan dari panduan ini untuk memudahkan pengguna email akakom.ac.id migrasi ke email utdi.ac.id.
 
-# **Langkah Pertama**
+# Langkah Pertama
 
 Sebagai langkah awal, anda perlu masuk ke akun email @akakom.ac.id atau untuk mahasiswa @students.akakom.ac.id. Setelah anda masuk, dapat menuju ke menu account management.
 
